@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/FS/static/css/main.5245f9a2.chunk.css",
-    "main.js": "/FS/static/js/main.0b8e545f.chunk.js",
-    "main.js.map": "/FS/static/js/main.0b8e545f.chunk.js.map",
+    "main.css": "/FS/static/css/main.5326a733.chunk.css",
+    "main.js": "/FS/static/js/main.b111c15b.chunk.js",
+    "main.js.map": "/FS/static/js/main.b111c15b.chunk.js.map",
     "runtime-main.js": "/FS/static/js/runtime-main.ad45efb5.js",
     "runtime-main.js.map": "/FS/static/js/runtime-main.ad45efb5.js.map",
     "static/css/2.b88bdf43.chunk.css": "/FS/static/css/2.b88bdf43.chunk.css",
-    "static/js/2.92642100.chunk.js": "/FS/static/js/2.92642100.chunk.js",
-    "static/js/2.92642100.chunk.js.map": "/FS/static/js/2.92642100.chunk.js.map",
+    "static/js/2.af049dd9.chunk.js": "/FS/static/js/2.af049dd9.chunk.js",
+    "static/js/2.af049dd9.chunk.js.map": "/FS/static/js/2.af049dd9.chunk.js.map",
     "index.html": "/FS/index.html",
-    "precache-manifest.8a634a90686f14b0358ecaf86a69b5db.js": "/FS/precache-manifest.8a634a90686f14b0358ecaf86a69b5db.js",
+    "precache-manifest.e672cbba3d4037c4bd3c19a9eb40f373.js": "/FS/precache-manifest.e672cbba3d4037c4bd3c19a9eb40f373.js",
     "service-worker.js": "/FS/service-worker.js",
     "static/css/2.b88bdf43.chunk.css.map": "/FS/static/css/2.b88bdf43.chunk.css.map",
-    "static/css/main.5245f9a2.chunk.css.map": "/FS/static/css/main.5245f9a2.chunk.css.map",
-    "static/js/2.92642100.chunk.js.LICENSE.txt": "/FS/static/js/2.92642100.chunk.js.LICENSE.txt",
-    "static/media/FireSwitch_logo.png": "/FS/static/media/FireSwitch_logo.24169ebd.png",
+    "static/css/main.5326a733.chunk.css.map": "/FS/static/css/main.5326a733.chunk.css.map",
+    "static/js/2.af049dd9.chunk.js.LICENSE.txt": "/FS/static/js/2.af049dd9.chunk.js.LICENSE.txt",
+    "static/media/FireSwitch_logo.png": "/FS/static/media/FireSwitch_logo.0e9d33e2.png",
     "static/media/IMG_8774.JPG": "/FS/static/media/IMG_8774.fd4cf390.JPG",
     "static/media/OluImmanuel.jpg": "/FS/static/media/OluImmanuel.66c8bbd4.jpg",
     "static/media/App.css": "/FS/static/media/Picture2.f52178a8.png",
@@ -24,13 +24,14 @@
     "static/media/Web_Dev.jpg": "/FS/static/media/Web_Dev.38d5e8b3.jpg",
     "static/media/mdb.css": "/FS/static/media/arrow_right.8ef6a08c.svg",
     "static/media/branding.jpg": "/FS/static/media/branding.31d19778.jpg",
-    "static/media/star.png": "/FS/static/media/star.ac0a9a52.png"
+    "static/media/star.png": "/FS/static/media/star.ac0a9a52.png",
+    "static/media/web dev.jpg": "/FS/static/media/web dev.3a04c08c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ad45efb5.js",
     "static/css/2.b88bdf43.chunk.css",
-    "static/js/2.92642100.chunk.js",
-    "static/css/main.5245f9a2.chunk.css",
-    "static/js/main.0b8e545f.chunk.js"
+    "static/js/2.af049dd9.chunk.js",
+    "static/css/main.5326a733.chunk.css",
+    "static/js/main.b111c15b.chunk.js"
   ]
 }
